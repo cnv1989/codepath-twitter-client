@@ -8,8 +8,8 @@
 
 import UIKit
 
-let twitterConsumerKey = "GvROlaDHtSStomGBPywqayqVb"
-let twitterConsumerSecret = "ipDjW1dC8LpG9qP8scZsaPVbO6kaMmtcMsK8lJHjpclYCX6gqf"
+let twitterConsumerKey = "Mr3tZ3SVaBJg5dzv73moB4x5E"
+let twitterConsumerSecret = "W2sOhv1rDDUQXdhrRx1bSE0dqHCrkhAyQn2d50oCkeVT43WDB8"
 let twitterAPIBaseURL = NSURL(string: "https://api.twitter.com")
 let requestTokenURL = "/oauth/request_token"
 let authorizeTokenURL = "/oauth/authorize"

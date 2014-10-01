@@ -75,7 +75,7 @@ class TweetsTableViewController: UITableViewController {
                     self.refreshControl!.endRefreshing()
                 })
             } else {
-                NSLog("Error: \(error)")
+                NSLog("Error: \(error)") 
                 self.refreshControl!.endRefreshing()
             }
         }
